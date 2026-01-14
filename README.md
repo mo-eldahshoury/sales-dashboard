@@ -13,3 +13,4 @@ A modern, responsive sales dashboard built with **Next.js 15**, **TypeScript**, 
    ```bash
    git clone [https://github.com/mo-eldahshoury/sales-dashboard.git]
 
+
