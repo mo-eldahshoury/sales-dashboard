@@ -1,6 +1,6 @@
 # 🚀 Sales Analytics Dashboard
 
-A modern, responsive sales dashboard built with **Next.js 15**, **TypeScript**, and **Tailwind CSS**.
+A modern, responsive sales dashboard built with **Next.js 15**, **TypeScript**, and **Tailwind CSS**. 
 
 ## ✨ Features
 
