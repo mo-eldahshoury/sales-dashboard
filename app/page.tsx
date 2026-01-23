@@ -6,7 +6,7 @@ import { LayoutDashboard, TrendingUp } from 'lucide-react';
 const data = [
   { year: '2022', sales: 4000, revenue: 2400 },
   { year: '2023', sales: 3000, revenue: 1398 },
-  { year: '2024', sales: 5500, revenue: 3800 },
+  { year: '2024', sales: 5500, revenue: 3800 }, 
 ];
 
 export default function Dashboard() {
