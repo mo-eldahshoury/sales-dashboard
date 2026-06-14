@@ -9,6 +9,7 @@ A modern, responsive sales dashboard built with **Next.js 15**, **TypeScript**, 
 - **Modern Tech Stack:** Built with the latest Next.js App Router and TypeScript for type safety.
 - **Atomic-Ready Structure:** Organized for scalability.
 
+
 ## 🛠️ Installation & Setup
  
 1. Clone the repository: 
