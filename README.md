@@ -10,7 +10,6 @@ A modern, responsive sales dashboard built with **Next.js 15**, **TypeScript**, 
 - **Atomic-Ready Structure:** Organized for scalability.
 
 
-
 ## 🛠️ Installation & Setup
  
 1. Clone the repository: 
